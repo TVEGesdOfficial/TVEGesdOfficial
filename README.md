@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **learning Python and Batch**
+ 🔭 I’m currently working on **my discord tool**
  
  🌱 I’m currently learning **Python and Batch**
 
