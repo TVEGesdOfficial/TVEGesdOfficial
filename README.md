@@ -1,4 +1,4 @@
-<!-- https://github.com/Smug246/ -->
+<!-- https://github.com/tvegesdofficial/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <h1 align="center">Hi 👋 I'm TVEGesd</h1>
