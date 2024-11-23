@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Batch & Python**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/tvegesdofficial?tab=repositories)
 
-- 📫 You can reach me by joining my [Telegram](https://t.me/lunaxsmug)
+- 📫 You can reach me by joining my [Discord (still not up)]
 
 
 <h3 align="left">Tech Stack</h3>
