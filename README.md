@@ -18,12 +18,12 @@
 - 📫 You can reach me by joining my [Discord (still not up)]
 
 - <p align="center">
-  <a href="https://github.com/vanishgg/vanishraider">
+  <a href="https://github.com/TVEGesdOfficial/FDM-Webhook-Spammer">
     <img src="https://i.ibb.co/zxZ4zcR/logo.png" alt="Logo" width="100" height="100">
   </a>
 </p>
 
-<h3 align="center">Vanish Raider</h3>
+<h3 align="center">FDM Webhook spammer</h3>
 
 <p align="center">
   <a href="https://discord.gg/invite/Mv4YQAK8F2" target="_blank">
